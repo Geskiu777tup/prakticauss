@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Продолжить</string>
+    <string name="zagalovok">Данное приложение созданно с целью узнать писателей и поэтов Адыгеи</string>
+    <string name="PISAT">Писатели</string>
+    <string name="POAT">Поэты</string>
+    <string name="perekl">Писатели|Поэты</string>
+
+</resources>
